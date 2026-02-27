@@ -1,5 +1,3 @@
----
-
 # 💨 The Big Boom Theory
 
 > Welcome to the loudest repository on GitHub.

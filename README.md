@@ -1,5 +1,3 @@
-Here’s an improved, polished, and more professional (yet still funny) version of your README — ready to copy and paste:
-
 ---
 
 # 💨 The Big Boom Theory
